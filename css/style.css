@@ -1,0 +1,88 @@
+#Bishkek:checked~.Talas,
+#Bishkek:checked~.Naryn,
+#Bishkek:checked~.Ysyk-Kol,
+#Bishkek:checked~.Osh,
+#Bishkek:checked~.Jalal-Abad,
+#Bishkek:checked~.Batken,
+#Bishkek:checked~.Chui{
+    display: none;
+}
+#Talas:checked~.Bishkek,
+#Talas:checked~.Naryn,
+#Talas:checked~.Ysyk-Kol,
+#Talas:checked~.Osh,
+#Talas:checked~.Jalal-Abad,
+#Talas:checked~.Batken,
+#Talas:checked~.Chui{
+    display: none;
+}
+#Naryn:checked~.Bishkek,
+#Naryn:checked~.Talas,
+#Naryn:checked~.Ysyk-Kol,
+#Naryn:checked~.Osh,
+#Naryn:checked~.Jalal-Abad,
+#Naryn:checked~.Batken,
+#Naryn:checked~.Chui{
+    display: none;
+}
+#Ysyk-Kol:checked~.Bishkek,
+#Ysyk-Kol:checked~.Talas,
+#Ysyk-Kol:checked~.Naryn,
+#Ysyk-Kol:checked~.Osh,
+#Ysyk-Kol:checked~.Jalal-Abad,
+#Ysyk-Kol:checked~.Batken,
+#Ysyk-Kol:checked~.Chui{
+    display: none;
+}
+#Osh:checked~.Bishkek,
+#Osh:checked~.Talas,
+#Osh:checked~.Naryn,
+#Osh:checked~.Ysyk-Kol,
+#Osh:checked~.Jalal-Abad,
+#Osh:checked~.Batken,
+#Osh:checked~.Chui{
+    display: none;
+}
+#Jalal-Abad:checked~.Bishkek,
+#Jalal-Abad:checked~.Talas,
+#Jalal-Abad:checked~.Naryn,
+#Jalal-Abad:checked~.Ysyk-Kol,
+#Jalal-Abad:checked~.Osh,
+#Jalal-Abad:checked~.Batken,
+#Jalal-Abad:checked~.Chui{
+    display: none;
+}
+#Batken:checked~.Bishkek,
+#Batken:checked~.Talas,
+#Batken:checked~.Naryn,
+#Batken:checked~.Ysyk-Kol,
+#Batken:checked~.Osh,
+#Batken:checked~.Jalal-Abad,
+#Batken:checked~.Chui{
+    display: none;
+}
+#Chui:checked~.Bishkek,
+#Chui:checked~.Talas,
+#Chui:checked~.Naryn,
+#Chui:checked~.Ysyk-Kol,
+#Chui:checked~.Osh,
+#Chui:checked~.Jalal-Abad,
+#Chui:checked~.Batken{
+    display: none;
+}
+input{
+    display: none;
+}
+#all:checked~.Bishkek,
+#all:checked~.Talas,
+#all:checked~.Naryn,
+#all:checked~.Ysyk-Kol,
+#all:checked~.Osh,
+#all:checked~.Jalal-Abad,
+#all:checked~.Batken,
+#all:checked~.Chui{
+    display:block;
+}
+
+
+
